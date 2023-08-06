@@ -1,0 +1,45 @@
+aapbdbdomjkkjkaonfhkkikfgjllcleb: Google Translate: version 2_0_13
+ahfgeienlihckogmohjhadlkjgocpleb: Web Store: version 0_2
+ahfhijdlegdabablpippeagghigmibma: Web Vitals: version 1_3_0
+aikkeehnlfpamidigaffhfmgbkdeheil: AI/ML Papers with Code Everywhere - CatalyzeX: version 0_0_0_69
+bcjindcccaagfpapjjmafapmmgkkhgoa: JSON Formatter: version 0_7_1
+bcocdbombenodlegijagbhdjbifpiijp: INSSIST | Web Client for Instagram: version 26_0_2
+bfbameneiokkgbdmiekhjnmfkcnldhhm: Web Developer: version 0_5_4
+bfnaelmomeimhlpmgjnjophhpkkoljpa: Phantom: version 23_9_0
+bhlhnicpbhignbdhedgjhgdocnmhomnp: ColorZilla: version 3_4
+bpconcjcammlapcogcnnelfmaeghhagj: Nimbus Screenshot & Screen Video Recorder: version 9_9_871_9989
+camppjleccjaphfdbohjdohecfnoikec: Merlin AI Chatbot powered by ChatGPT API: version 6_4_19
+cjpalhdlnbpafiamejdnhcphjbkeiagm: uBlock Origin: version 1_51_0
+cpaihklfamokgdbpnkkmeihednbefmom: Amazon Scraper - Trial Version: version 1_4_0
+dagohlmlhagincbfilmkadjgmdnkjinl: Checkbot: SEO, Web Speed & Security Tester 🚀: version 1_4_1
+dodmmooeoklaejobgleioelladacbeki: Gitpod - Always ready-to-code: version 1_19
+ekhagklcjbdpajgpjgmbionohlpdbjgc: Zotero Connector: version 5_0_112
+fihnjjcciajhdojfnbdddfaoknhalnja: I don't care about cookies: version 3_4_7
+fmkadmapgofadopljbjfkapdkoienihi: React Developer Tools: version 4_28_0
+fnjhmkhhmkbjkkabndcnnogagogbneec: Ronin Wallet: version 1_25_1
+gbkeegbaiigmenfmjfclcdgdpimamgkj: Office Editing for Docs, Sheets & Slides: version 146_42_49
+ghbmnnjooekpmoecnnnilnnbdlolhkhi: Google Docs Offline: version 1_65_0
+gighmmpiobklfepjocnamgkkbiglidom: AdBlock — best ad blocker: version 5_8_1
+gppongmhjkpfnbhagpmjfkannfbllamg: Wappalyzer - Technology profiler: version 6_10_63
+hjkifponoamdhhgdfodkbaabajhdgbob: Amazon Brand Detector: version 0_0_9
+hkgfoiooedgoejojocmhlaklaeopbecg: Picture-in-Picture Extension(by Google): version 1_11
+jldhpllghnbhlbpcmnajkpdmadaolakh: Todoist for Chrome: version 11_1
+jlmpjdjjbgclbocgajdjefcidcncaied: daily.dev | The homepage developers deserve: version 3_26_1
+jofhoojcehdmaiibilpcoofpdbbddkkl: Marker.io: Visual bug reporting for websites: version 6_3_6
+kbmfpngjjgdllneeigpgjifpgocmfgmb: Reddit Enhancement Suite: version 5_22_17
+knheggckgoiihginacbkhaalnibhilkk: Notion Web Clipper: version 0_2_8
+ldmmifpegigmeammaeckplhnjbbpccmm: Save to Notion: version 2_57
+lmhkpmbekcpmknklioeibfkpmmfibljd: Redux DevTools: version 3_0_19
+mhjfbmdgcfjbbpaeojofohoefgiehjai: Chrome PDF Viewer: version 1
+mhnlakgilnojmhinhkckjpncpbhabphi: MaxAI.me: Use ChatGPT AI Anywhere Online: version 2_0_11
+neajdppkdcdipfabeoofebfddakdcjhd: Google Network Speech: version 1_0
+nkbihfbeogaeaoehlefnkodbefgpgknn: MetaMask: version 10_34_3
+nkeimhogjdpnpccoofpliimaahmaaome: Google Hangouts: version 1_3_21
+nlipoenfbbikpbjkfpfillcgkoblgpmj: Awesome ChatGPT Screenshot & Screen Recorder: version 4_3_86
+nmmhkkegccagdldgiimedpiccmgmieda: Chrome Web Store Payments: version 1_0_0_6
+ojkcdipcgfaekbeaelaapakgnjflfglf: Check My Links: version 3_8_2
+ookjlbkiijinhpmnjffcofjonbfbgaoc: Temple - Tezos Wallet: version 1_17_4
+pbcodcjpfjdpcineamnnmbkkmkdpajjg: Link to Text Fragment: version 2_3_3
+pbcpfbcibpcbfbmddogfhcijfpboeaaf: Amino: Live CSS Editor: version 4_0_6
+pkehgijcmpdhfbdbbnkijodmdjhbjlgp: Privacy Badger: version 2023_6_23
+ponodoigcmkglddlljanchegmkgkhmgb: Sample
